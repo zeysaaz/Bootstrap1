@@ -1,0 +1,9 @@
+.div.row{
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 30px;
+    min-height: 280px;
+    box-sizing: border-box;
+    text-align: center;
+    width: 180px;
+}
